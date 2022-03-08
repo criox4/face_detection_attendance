@@ -1,4 +1,4 @@
-# Face Attendance
+# Face Detection Attendance System
 
 A Facial recognition Attendance tool with high accuracy. 
 
